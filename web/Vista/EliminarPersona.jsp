@@ -1,6 +1,6 @@
 <%-- 
-    Document   : ListarSugerencia
-    Created on : 06/08/2020, 09:30:49 AM
+    Document   : EliminarPersona
+    Created on : 06/08/2020, 01:59:54 PM
     Author     : MAYRA
 --%>
 

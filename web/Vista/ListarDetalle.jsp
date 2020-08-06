@@ -1,6 +1,6 @@
 <%-- 
-    Document   : EditarSugerencia
-    Created on : 06/08/2020, 09:30:19 AM
+    Document   : ListarDetalle
+    Created on : 06/08/2020, 02:01:48 PM
     Author     : MAYRA
 --%>
 
